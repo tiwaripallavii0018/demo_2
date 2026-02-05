@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#a68484',
   },
   goalsContainer: {
-    flex: ,
+    flex: 5,
   },
   goalCard: {
     backgroundColor: '#fff',
