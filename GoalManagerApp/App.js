@@ -105,10 +105,10 @@ const styles = StyleSheet.create({
     marginRight: 10,
     padding: 10,
     borderRadius: 5,
-    backgroundColor: '#fff',
+    backgroundColor: '#a68484',
   },
   goalsContainer: {
-    flex: 1,
+    flex: ,
   },
   goalCard: {
     backgroundColor: '#fff',
