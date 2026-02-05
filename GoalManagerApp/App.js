@@ -45,7 +45,7 @@ export default function App() {
       <View style={styles.inputContainer}>
         <TextInput
           style={styles.textInput}
-          placeholder="Write your goal here"
+          placeholder="Write your goal herezxjhskdjsokd"
           onChangeText={handleTextInput}
           value={enteredGoalText}
         />
@@ -92,14 +92,14 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingTop: 50,
     paddingHorizontal: 16,
-    backgroundColor: '#f5f5f5',
+    backgroundColor: '#efcfcf',
   },
   inputContainer: {
     flexDirection: 'row',
     marginBottom: 20,
   },
   textInput: {
-    flex: 1,
+    flex: 1.5,
     borderColor: '#ccc',
     borderWidth: 1,
     marginRight: 10,
