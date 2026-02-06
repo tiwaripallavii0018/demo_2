@@ -45,7 +45,7 @@ export default function App() {
       <View style={styles.inputContainer}>
         <TextInput
           style={styles.textInput}
-          placeholder="Write your goal herezxjhskdjsokd"
+          placeholder="Write your g==skljdszxjhskdjsokd"
           onChangeText={handleTextInput}
           value={enteredGoalText}
         />
@@ -105,10 +105,10 @@ const styles = StyleSheet.create({
     marginRight: 10,
     padding: 10,
     borderRadius: 5,
-    backgroundColor: '#fff',
+    backgroundColor: '#a68484',
   },
   goalsContainer: {
-    flex: 1,
+    flex: 5,
   },
   goalCard: {
     backgroundColor: '#fff',
