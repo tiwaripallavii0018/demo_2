@@ -45,7 +45,7 @@ export default function App() {
       <View style={styles.inputContainer}>
         <TextInput
           style={styles.textInput}
-          placeholder="Write your goal herezxjhskdjsokd"
+          placeholder="Write your g==skljdszxjhskdjsokd"
           onChangeText={handleTextInput}
           value={enteredGoalText}
         />
